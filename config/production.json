@@ -1,0 +1,5 @@
+{
+    "port": 80,
+    "jwtSecret": "secretKeyJWT",
+    "mongoUri": "mongodb+srv://alex:Password12345@cluster0-6p8od.azure.mongodb.net/app?retryWrites=true&w=majority"
+}
